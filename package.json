@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-into-autumn-ragland",
+  "version": "1.0.0",
+  "description": "GitHub repositories will have a .gitignore file generated specifically for node applications Running `node -v` in the terminal will verify if you have the up to date version of `node` on your machine Running `npm -v` in the terminal will verify if you have the up to date version of the `node package module`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cs-fullstack-2020-spring/nodejs-into-autumn-ragland.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cs-fullstack-2020-spring/nodejs-into-autumn-ragland/issues"
+  },
+  "homepage": "https://github.com/cs-fullstack-2020-spring/nodejs-into-autumn-ragland#readme"
+}
